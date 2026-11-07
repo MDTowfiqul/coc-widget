@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark brown card, gold headers, white text — like a CoC tracker widget. -->
+    <color name="widget_bg">#4E342E</color>
+    <color name="widget_account_bg">#5D4037</color>
+    <color name="widget_title">#FFFFFF</color>
+    <color name="widget_text">#FFFFFF</color>
+    <color name="widget_gold">#FFD54F</color>
+    <color name="widget_footer">#D7CCC8</color>
+</resources>
