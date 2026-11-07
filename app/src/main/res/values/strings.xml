@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoC Widget</string>
+    <string name="intro_text">Paste a fresh village export (in-game export as text) for each account, give each account a display name, and save. The widget shows the upgrades that are in progress, with live countdowns. If you save nothing, the two bundled exports are used.</string>
+    <string name="account_1_name">Account 1 display name</string>
+    <string name="account_1_json">Account 1 JSON</string>
+    <string name="account_2_name">Account 2 display name</string>
+    <string name="account_2_json">Account 2 JSON</string>
+    <string name="name_hint">e.g. Main, or leave blank to use the tag</string>
+    <string name="account_1">Account 1</string>
+    <string name="account_2">Account 2</string>
+    <string name="save">Save</string>
+    <string name="load_defaults">Load bundled defaults</string>
+    <string name="update_widget">Update widget</string>
+    <string name="preview_title">Preview</string>
+    <string name="refresh">Refresh</string>
+    <string name="saved">Saved — widget updated.</string>
+    <string name="defaults_loaded">Bundled accounts loaded.</string>
+    <string name="widget_updated">Widget updated.</string>
+    <string name="invalid_json">Could not parse %1$s JSON — check the pasted text and try again.</string>
+    <string name="no_data">No account data yet — open the app and paste your village JSON.</string>
+</resources>
